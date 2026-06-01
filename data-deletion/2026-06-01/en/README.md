@@ -12,25 +12,26 @@ When you submit a data deletion request, the Service Provider will delete the pe
 
 To request the deletion of your personal data, send an email to the Service Provider following these steps:
 
-1.  Open your email client and create a new message.
+1.  Send the email **from the same email address registered in your Spensa account**.
 2.  Send the email to: **mortalswat@gmail.com**
 3.  In the **Subject** field, write: **DELETE DATA**
-4.  In the body of the message, include the following information so the Service Provider can identify your account and process the request:
-    *   The email address associated with your Spensa account
-    *   Your name as registered in the Application (if applicable)
-    *   A brief statement confirming that you are requesting the deletion of your personal data
-5.  Send the email.
+
+No additional information is required in the body of the message.
+
+**Identity verification**
+
+For your protection, the request will only be processed if the email address from which the message is sent is the same as the email address registered in your Spensa account. The Service Provider verifies that the requesting email address matches the sender of the message. Requests sent from a different email address than the one registered in the account will not be processed.
 
 **Example email**
 
+*   **From:** the email address registered in your Spensa account
 *   **To:** mortalswat@gmail.com
 *   **Subject:** DELETE DATA
-*   **Body:** I request the deletion of all personal data associated with my Spensa account. My account email address is: [your email address].
 
 **What happens after you submit your request**
 
-*   The Service Provider will acknowledge your request and may contact you to verify your identity before processing it, in order to protect your data from unauthorized deletion requests.
-*   Once your identity is confirmed, the Service Provider will delete your personal data within a reasonable period, except for data that must be retained to comply with applicable law.
+*   The Service Provider will verify that the sender's email address matches the email address registered in your Spensa account.
+*   Once verified, the Service Provider will delete your personal data within a reasonable period, except for data that must be retained to comply with applicable law.
 *   You will be notified once the deletion has been completed.
 
 **Before you submit your request**
