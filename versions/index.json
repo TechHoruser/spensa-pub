@@ -1,0 +1,11 @@
+{
+  "releases": [
+    {
+      "versionNumber": "1.0.0",
+      "releaseDate": "2026-06-05",
+      "changes": [
+        { "type": "feature", "description": "Primera versión pública de Spensa." }
+      ]
+    }
+  ]
+}
