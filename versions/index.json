@@ -1,6 +1,14 @@
 {
   "releases": [
     {
+      "versionNumber": "1.3.0",
+      "releaseDate": "2026-06-11",
+      "changes": [
+        { "type": "feature", "description": "Acceso a mapas: localiza supermercados y productos directamente sobre el mapa." },
+        { "type": "improvement", "description": "Inclusión de nuevos supermercados disponibles en la app." }
+      ]
+    },
+    {
       "versionNumber": "1.0.0",
       "releaseDate": "2026-06-05",
       "changes": [
